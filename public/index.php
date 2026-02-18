@@ -13,7 +13,7 @@
     <title>Job Tracker</title>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <link rel="stylesheet" href="loginStyle.css"/>
+    <link rel="stylesheet" href="style/loginStyle.css"/>
 
 </head>
 <body>
